@@ -12,5 +12,6 @@
 
 // console.log(premik.gf);
 
-let fun = undefined;
-console.log(fun);
+// let fun = undefined;
+// console.log(fun);
+
